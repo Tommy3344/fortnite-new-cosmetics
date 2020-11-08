@@ -7,6 +7,8 @@ Pickaxe_ID_479_LunchBox1H
 Ghost Rider
 CID_924_Athena_Commando_M_Embers
 BID_642_Embers
+Pickaxe_ID_492_EmbersMale
+glider_id_250_embersmale
 
 BID_452_BandageNinjaBlue
 BID_580_ParcelPetal
