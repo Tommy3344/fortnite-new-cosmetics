@@ -1,3 +1,7 @@
+Black Widow (Snow Suit)
+CID_925_Athena_Commando_F_TapDance
+BID_643_TapDance
+
 PWR Pack
 CID_891_Athena_Commando_M_Lunchbox
 EID_LunchBox
